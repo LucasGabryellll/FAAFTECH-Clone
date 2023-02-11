@@ -1,0 +1,27 @@
+#header_one {
+  background-color: black;
+  font-size: 15px;
+  color: #FFF;
+}
+
+.content {
+  text-align: right;
+  margin-right: 5px;
+  align-items: center;
+}
+
+.none {
+  color: gray;
+}
+
+span {
+  margin-right: 5px;
+}
+
+img {
+  margin-right: 5px;
+}
+
+img:hover {
+  cursor: pointer;
+}
